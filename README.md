@@ -1,13 +1,18 @@
 
 # ecommstore
-Welcome to the ecommstore project! This dynamic e-commerce platform is a practice project aimed at rebuilding an online shopping experience I previously created for my oldest daughter. Designed with flexibility in mind, it caters to various types of products and services, providing a seamless user experience.
+This is an e-commerce platform that is a practice project aimed at rebuilding an online shopping experience I previously created for my oldest daughter to try and sell her artwork.
+This file
 
 ## Getting Started
-This project is built using Ruby on Rails, a powerful framework for web development. To get this application up and running on your system, ensure you have Ruby installed.
+This project is built using Ruby on Rails. To get this application up and running on your system, ensure you have Ruby installed.
 
 ### Prerequisites
-- Ruby (Version specified in `.ruby-version`)
+- Ruby (3.2.3)
+- Rails (7.1.3)
 - PostgreSQL for the database
+
+---
+NOTE: Below instructions are generic rails project info, I will update as I move forward with the project.
 
 ### Installation
 1. Clone the repository to your local machine.
